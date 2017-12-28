@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "707450026487",
+    "firebase_url": "https://computerquiz-358a4.firebaseio.com",
+    "project_id": "computerquiz-358a4",
+    "storage_bucket": "computerquiz-358a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707450026487:android:bbfa6ebdc04c17b8",
+        "android_client_info": {
+          "package_name": "com.glebmorgan.computerquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707450026487-5gpcbidtnincslj34c061e46a6ic2a13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAdguBo6M6LBdRU5u313G16L9Mnd8uAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
